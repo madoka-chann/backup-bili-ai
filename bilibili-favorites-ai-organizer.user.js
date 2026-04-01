@@ -12,7 +12,7 @@
 // @grant        GM_setValue
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
-// @resource     customCSS https://raw.githubusercontent.com/madoka-chann/Bilibili-Favorites-AI-Organizer/refs/heads/main/bilibili-favorites-ai-organizer.css
+// @resource     customCSS https://raw.githubusercontent.com/madoka-chann/backup-bili-ai/refs/heads/main/bilibili-favorites-ai-organizer.css
 // @connect      generativelanguage.googleapis.com
 // @connect      api.openai.com
 // @connect      api.deepseek.com
